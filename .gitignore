@@ -1,0 +1,21 @@
+### Grunt and dependencies ###
+/node_modules
+/dist
+/test
+Gruntfile.js
+*=0.4.0
+package.json
+
+### Grunt intermediate storage ###
+.grunt
+
+### Sass ###
+.sass-cache/
+*.css.map
+
+### Ignore all logs ###
+*.log
+
+### SublimeText ###
+*.sublime-project
+*.sublime-workspace
